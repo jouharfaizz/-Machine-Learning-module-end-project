@@ -9,11 +9,11 @@ Dataset
 
 The dataset contains information about different car features and their prices in the American market.
 
-Dataset Link: Download Here
+Dataset : CarPrice
 
 Key Components
 
-Loading and Preprocessing (5 marks)
+Loading and Preprocessing 
 
 Load the dataset and handle missing values.
 
@@ -21,7 +21,7 @@ Encode categorical variables.
 
 Scale numerical features.
 
-Model Implementation (10 marks)
+Model Implementation 
 
 Train the following regression models:
 
@@ -45,15 +45,15 @@ Mean Squared Error (MSE)
 
 Mean Absolute Error (MAE)
 
-Feature Importance Analysis (2 marks)
+Feature Importance Analysis 
 
 Identify key variables affecting car prices using feature importance scores.
 
-Hyperparameter Tuning (2 marks)
+Hyperparameter Tuning 
 
 Optimize the best-performing model using GridSearchCV.
 
-Timely Submission (1 mark)
+Timely Submission 
 
 Submit the Jupyter Notebook on GitHub before the deadline.
 
